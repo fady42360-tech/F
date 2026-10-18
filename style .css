@@ -1,0 +1,31 @@
+* .clear-fix{clear: both;}
+
+.container{margin: auto; width: 80%;}
+.spahial{
+    background-color: blue;
+    margin: auto;width: 800px;
+    border-radius: 30px ;
+    border-color: blue;
+    text-align: center; 
+    color: #f2f0f0;
+    button{border-radius: 30px;;}
+    
+    
+}
+.card img{border-radius:250px;}
+.card p span {
+    color:blue 
+} 
+.card button {margin: 30px; ;;}
+.card img{float: left; }
+.button1{border: radius 40px;background-color: blue;;}
+.card1{float: left; width:25%;}
+.card2{float: left;width:25%;}
+.card3{float: left; width:25%;}
+.card4{float: left; width:25%;}
+.text{background-color: aliceblue; width: 120px;;}
+
+.Experience1 img{border-radius:  250px; float: left;;}
+
+.link{background-color: blue; width: 800px;height: 200px; margin: auto; border-radius: 10px; padding: 10px;;;}
+button{background-color: rgb(87, 87, 188);}
